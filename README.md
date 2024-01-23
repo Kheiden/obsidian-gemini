@@ -13,6 +13,11 @@ npm install axios
 - Enable plugin in settings window.
 - For updates to the Obsidian API run `npm update` in the command line under your repo folder.
 
+## Operation
+
+Highlight a portion of text, the use the command palette to select the appropriate command.
+
+
 ## Releasing new releases
 
 - Update your `manifest.json` with your new version number, such as `1.0.1`, and the minimum Obsidian version required for your latest release.
