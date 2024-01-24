@@ -3,7 +3,7 @@
 
 ## Installation
 
-Copy the main.js, styles.css, and manifest.json files to your vault's .obsidian/plugins/obsidian-gemini folder.
+Copy the main.js, styles.css, and manifest.json files to your vault's `.obsidian/plugins/obsidian-gemini` folder.
 
 
 ## Development
