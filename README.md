@@ -1,12 +1,15 @@
 # Gemini integration for Obsidian
 
-## Prerequisites
-npm install axios
 
 ## Installation
 
+Copy the main.js, styles.css, and manifest.json files to your vault's .obsidian/plugins/obsidian-gemini folder.
+
+
+## Development
 - Clone repo into the `.obsidian/plugins/obsidian-gemini` folder.
 - Install NodeJS, then run `npm i` in the command line under your repo folder.
+- Run `npm install axios`
 - Run `npm run dev` to compile your plugin from `main.ts` to `main.js`.
 - Make changes to `main.ts` (or create new `.ts` files). Those changes should be automatically compiled into `main.js`.
 - Reload Obsidian to load the new version of your plugin.
